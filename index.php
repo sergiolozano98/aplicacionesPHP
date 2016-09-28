@@ -1,5 +1,5 @@
 <?php
 $nombre="sergio";
-echo "ejercicio1 ".$nombre;
+echo "pruebanuevarama".$nombre;
 
 ?>
